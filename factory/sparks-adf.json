@@ -1,0 +1,9 @@
+{
+	"name": "sparks-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c7ac7e8f-b22e-4aa0-8300-8ecce102aa10",
+		"tenantId": "ca9a8b8c-3ea3-4799-a43e-5510398e7a3b"
+	}
+}
